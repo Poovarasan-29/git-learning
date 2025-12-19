@@ -8,7 +8,7 @@ just for a line
 # commit 1
 
 # commit 2
-
+# middle
 # commit 3
 
 # commit 4
