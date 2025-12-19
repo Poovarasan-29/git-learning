@@ -16,4 +16,4 @@ just for a line
 
 # mic set
 
-# Doing a feature after the stash
+# after the tempory But still its Tempo for next stash
